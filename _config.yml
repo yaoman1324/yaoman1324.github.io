@@ -1,8 +1,8 @@
-title: Derrick Wells – Independent Product Designer
+title: Sho Kawano 
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "/derrick" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: I'm a data scientist working at UC Davis. I am interested in using data science to solve env. science & env. health problems. Currently, I work on time series & factor analysis of aerosol data.
+baseurl: "/aboutme # the subpath of your site, e.g. /blog
+url: "https://shonomercy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
@@ -20,8 +20,6 @@ contact:
     link: https://twitter.com/
   - name: Facebook
     link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
 
 
 # Comment Section (Disqus)
