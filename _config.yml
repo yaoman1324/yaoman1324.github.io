@@ -1,4 +1,4 @@
-title: Sho Kawano 
+title: Sho Kawano
 logo:  # you can add own logo.
 description: I'm a data scientist working at UC Davis. I am interested in using data science to solve env. science & env. health problems. Currently, I work on time series & factor analysis of aerosol data.
 baseurl: "/aboutme # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: "https://shonomercy.github.io/" # the base hostname & protocol for your sit
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: Sho Kawano
   image: '/assets/img/01.jpg'
   job: Independent Product Designer
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
