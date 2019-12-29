@@ -1,7 +1,7 @@
 title: Sho Kawano
 logo:  # you can add own logo.
 description: I'm a data scientist working at UC Davis. I am interested in using data science to solve env. science & env. health problems. Currently, I work on time series & factor analysis of aerosol data.
-baseurl: "/aboutme # the subpath of your site, e.g. /blog
+baseurl: /aboutme
 url: "https://shonomercy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
