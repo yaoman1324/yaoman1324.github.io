@@ -1,16 +1,16 @@
 title: Sho Kawano
 logo:  # you can add own logo.
-description: 
-baseurl: /aboutme
-url: "/shonomercy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description:
+baseurl: / 
+url: "https://shonomercy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
   name: Sho Kawano
-  image: '/assets/img/01.jpg'
-  job: Statistical Applications for Environmental Science 
-  bio: I'm a data scientist working at UC Davis. I am interested in using data science to solve env. science & env. health problems. Currently, I work on time series & factor analysis of aerosol data.
+  image: '/assets/img/headshot2.jpeg'
+  job: Environmental Science / Statistics
+  bio: I'm a data scientist working at UC Davis. I am interested in statistical methods to solve environmental problems. Currently, I work on time series & factor analysis of aerosol data.
   email: shokawano@berkeley.edu
 
 
@@ -23,7 +23,7 @@ contact:
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
