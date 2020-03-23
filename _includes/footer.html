@@ -1,17 +1,34 @@
 <div class="container">
   <!-- begin footer -->
   <footer class="footer">
-    <div class="footer__inner">
+    <!-- <div class="footer__inner"> -->
       <div class="contact">
-        <div class="contact__title">Work inquiry, question or something else? <a href="mailto:{{site.author.email}}">Email me</a>.</div>
-        <ul class="contact__list list-reset">
+        <!--Listing all my links here. Change these links in _config.yml -->
+        <div class="contact__title">Links:</div>
+          <div class="contact__link">
+            <a href="{{site.author.cv}}">CV</a>
+          </div>
+          <div class="contact__link">
+            <a href="mailto:{{site.author.email}}">Email</a>
+          </div>
+          <div class="contact__link">
+            <a href="{{site.author.github}}">GitHub</a>
+          </div>
+          <div class="contact__link">
+            <a href="{{site.author.group_site}}">Research Group</a>
+          </div>
+
+
+        <div class="updated_line">Last Updated: 03-23-2020</div>
+
+        <!-- <ul class="contact__list list-reset">
           {% for contact in site.contact %}
           <li class="contact__item">
             <a class="contact__link" href="{{contact.link}}">{{contact.name}}</a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
+          </li> -->
+          <!-- {% endfor %} -->
+        <!-- </ul> -->
+      <!-- </div> -->
     </div>
   </footer>
   <!-- end footer -->

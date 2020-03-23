@@ -11,8 +11,8 @@
 
 .author__img {
   display: block;
-  max-width: 130px;
-  max-height: 130px;
+  max-width: 180px;
+  max-height: 180px;
   margin: 0 auto 30px;
   border-radius: 50%;
   background-color: $gray-white;
@@ -26,7 +26,7 @@
 
 .author__job {
   margin-bottom: 15px;
-  font-size: 37px;
+  font-size: 30px;
   text-align: center;
   color: $gray;
 }
@@ -39,6 +39,9 @@
   text-align: center;
   color: $gray;
 }
+
+
+// Not in use
 
 .author__more {
   text-align: center;
@@ -64,7 +67,7 @@ a.know-more {
   margin-left: 25px;
   font-size: 13px;
   font-weight: 700;
-  color: $gray;
+  color: $secondary-color;
   text-decoration: underline;
   &:hover {
     color: $primary-color;

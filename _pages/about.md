@@ -2,19 +2,21 @@
 layout: page
 title: About
 permalink: /about/
-image: '/assets/img/01.jpg'
 ---
 
-Hi, my name is Derrick Wells. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies.
+Hi my name is Sho.  Here are a few quick facts about me.  
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity.
 
-***
+* **I was born in Tokyo, Japan**.  Because my mom is an American Citizen, I get to be a dual-citizen.   Being raised in a culture so different from American Culture was challenging but ultimately super rewarding.
 
-> Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+* **Grew up on the beautiful island of O'ahu** -  I consider that island my childhood home.  I grew up surrounded by nature and a kind of laid-back communalism that doesn't stifle individuality.  
 
-***
+* **I've lived in Northern California since 2008** - I went to a Waldorf high school in Sacramento and went to college at UC Berkeley.  Got to enjoy the bay for 7+ yrs and now I'm back in Sacramento.   
 
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
+Overall, it's safe to say I'm **pretty fucking lucky**. :)
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable potentialities.
+<!-- ![]({{site.baseurl}}/assets/img/aboutme.jpeg) -->
+{% include image.html url="/assets/img/aboutme.jpeg" description="In the ruins of Bagan, Myanmar." %}
+
+
+**STILL UNDER CONSTRUCTION**

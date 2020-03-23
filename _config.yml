@@ -1,26 +1,39 @@
-title: Sho Kawano
+title: Sho's Personal Page
 logo:  # you can add own logo.
 description:
-baseurl: /
+baseurl:
 url: https://shonomercy.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
   name: Sho Kawano
-  image: '/assets/img/headshot2.jpeg'
-  job: Environmental Science / Statistics
-  bio: I'm a data scientist working at UC Davis. I am interested in statistical methods to solve environmental problems. Currently, I work on time series & factor analysis of aerosol data.
+  image: '/assets/img/headshot.jpeg'
+  job: Research Scientist, UC Davis
+  bio: |+
+    Hi I'm Sho! Welcome to my page. <br />
+
+    <br />
+    Broadly speaking, I'm interested in solving statistical problems related to our environment and health. <br />
+    <br />
+    Currently I am analyzing high dimensional, time series aerosol data.
+    My research is part of a broad effort to understand how small particulates impacts the climate. <br />
+     <br />
+    In the past I've worked in the solar industry and an awesome nonprofit called <a href="https://www.watttime.org/">WattTime</a>.
+  cv:
   email: shokawano@berkeley.edu
+  github: https://github.com/shonomercy
+  group_site: https://sites.google.com/site/qizhanggroup/pe
+  last_update:  2020-03-23
+
 
 
 # Contact links
-contact:
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
-
+# TODO: Potentially add later.
+# contact:
+#   - name: Twitter
+#     link: https://twitter.com/
+#
 
 # Comment Section (Disqus)
 disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
