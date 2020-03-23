@@ -27,7 +27,7 @@ My current research falls under the domains of **aerosol chemistry** and
 
 Understanding the effect of aerosols on our climate is technically challenging. They are tiny and difficult to measure.  They both reflect and absorb light, making it challenging to quantify their net effect.  Furthermore, aerosols are extremely diverse both in their physical and chemical make-up.  
 
-Nonetheless, these tiny particles change how the sun warms our planet and researchers believe that they also affects cloud formations. Several studies have strongly suggested that co-located measurements of meteorology, radiation, and aerosols are necessary in order to better understand them.
+Nonetheless, these tiny particles change how the sun warms our planet and researchers believe that they also affects cloud formations. Analysis of co-located measurements of meteorology, radiation, and aerosols are necessary in order to better understand them.
 
 To better understand NR-PM<sub>1</sub>, we use mass concentration measurements from Aerosol Chemical Speciation Monitors (ACSMs).  This instrument is co-located with other instruments that measure meteorological properties as part of US Dept. of Energy's [ARM Program](https://www.arm.gov/).  The aerosol data from ACSMs tend to not only be large in terms of the number of observations but also very highly dimensional which makes interpretation difficult. Therefore this data pose **an interesting statistical challenge** that spans the subdomains of **time series analysis, dimensionality reduction, and machine learning**.
 
