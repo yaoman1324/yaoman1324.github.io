@@ -18,7 +18,7 @@ I expect this to change over time but my current research interests are:
 
 ***
 
-### Current Research Project: Aerosols
+### Current Research Project: Aerosol Characterization & Atmospheric Processing 
 
 > "For those of us studying aerosols, it's a fascinatingly complex problem. And while this complexity challenges our observational and modeling capabilities, aerosols are a critical component of our atmosphere. If we want to better quantify climate change, we must not only understand greenhouse gases, but aerosols as well." - Art Sedlacek, an atmospheric scientist at the U.S. Department of Energy
 
@@ -29,6 +29,6 @@ Understanding the effect of aerosols on our climate is technically challenging. 
 
 Nonetheless, these tiny particles change how the sun warms our planet and researchers believe that they also affects cloud formations. Analysis of co-located measurements of meteorology, radiation, and aerosols are necessary in order to better understand them.
 
-To better understand NR-PM<sub>1</sub>, we use mass concentration measurements from Aerosol Chemical Speciation Monitors (ACSMs).  This instrument is co-located with other instruments that measure meteorological properties as part of US Dept. of Energy's [ARM Program](https://www.arm.gov/).  The aerosol data from ACSMs tend to not only be large in terms of the number of observations but also very highly dimensional which makes interpretation difficult. Therefore this data pose **an interesting statistical challenge** that spans the subdomains of **time series analysis, dimensionality reduction, and machine learning**.
+To better understand NR-PM<sub>1</sub>, we use mass concentration measurements from Aerosol Chemical Speciation Monitors (ACSMs).  This instrument is co-located with other instruments that measure meteorological properties as part of US Dept. of Energy's [ARM Program](https://www.arm.gov/).  The aerosol data from ACSMs tend to not only be large in terms of the number of observations but also very highly dimensional which makes interpretation difficult. Therefore this data pose **interesting statistical challenges** in areas like **time series analysis, dimensionality reduction, cluster analysis, and supervised machine learning**.
 
 If this weren't already interesting enough, these ARM datasets are criminally under-explored (in my opinion).  This makes this one of the more fascinating data science projects around!
