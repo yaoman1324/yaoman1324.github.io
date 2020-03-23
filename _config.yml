@@ -1,4 +1,4 @@
-title: Sho's Personal Page
+title: Sho
 logo:  # you can add own logo.
 description:
 baseurl:
@@ -19,7 +19,7 @@ author:
     Currently I am analyzing aerosol time series data which has very high dimensionality.
     My research is part of a broad effort to understand how small particulates impacts the climate. <br />
      <br />
-    In the past I've worked in the solar industry and an awesome nonprofit called <a href="https://www.watttime.org/">WattTime</a>.
+    In the past I've worked in utility-scale solar energy and an awesome nonprofit called <a href="https://www.watttime.org/">WattTime</a>.
   cv:
   email: shokawano@berkeley.edu
   github: https://github.com/shonomercy
