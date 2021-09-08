@@ -14,9 +14,9 @@ Recently, I've really gotten into playing softball and gardening.  I try to bala
 
 Currently, I see *statistics* as my way of contributing (very small pieces) toward solutions to important societal problems through my career. I also believe that volunteering is super important because it's hard to get paid to fix systemic issues.  
 
-* [Why Statistics?](/2021/09/08/why-stats/).
-* [Why I meditate.](/2021/09/01/why-meditate/)
-* [My evolving views on "doing good"](/2021/08/31/doing-good/)
+* [Why Statistics?](https://sho-kawano.github.io/2021/09/08/why-stats/).
+* [Why I meditate.](https://sho-kawano.github.io/)
+* [My evolving views on "doing good"](https://sho-kawano.github.io/2021/09/08/why-stats/)
 
 #### My Life Path
 
