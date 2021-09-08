@@ -1,4 +1,4 @@
-title: Sho
+title: Sho Kawano
 logo:  # you can add own logo.
 description:
 baseurl:
@@ -8,23 +8,23 @@ url: https://shonomercy.github.io # the base hostname & protocol for your site, 
 # Author Settings
 author:
   name: Sho Kawano
-  image: '/assets/img/headshot.jpeg'
-  job: Research Scientist, UC Davis
+  image: '/assets/img/aboutme.jpeg'
+  job: Welcome to my page!
   bio: |+
-    Hi I'm Sho! Welcome to my page. <br />
-
     <br />
-    Broadly speaking, I'm interested in solving statistical problems related to our environment and health. <br />
+    I'm an aspiring statistician hoping to use my skills to tackle environmental problems.
     <br />
-    Currently I work as a research scientist analyzing aerosol data.
-    My research is part of a broad effort to understand how particulates pollution impacts the climate. <br />
-     <br />
-    In the past I've worked in utility-scale solar energy and an awesome nonprofit called <a href="https://www.watttime.org/">WattTime</a>.
-  cv:
-  email: shokawano@berkeley.edu
+    <br />
+    Currently I'm a PhD Student in Statistics at UC Santa Cruz.
+    <br />
+    <br />
+    Previously I mainly worked in clean energy with brief stints in air pollution research and the CA State Government.
+    <br />
+  resume: https://drive.google.com/file/d/1pOIMi0x5vhZ5V8CbCRoZ6iwe4cd37__U/view?usp=sharing
+  email: shokawano5@gmail.com
   github: https://github.com/shonomercy
-  group_site: https://sites.google.com/site/qizhanggroup/pe
-  last_update:  2020-03-23
+  linkedin: https://www.linkedin.com/in/shokawano
+  last_update:  2021-09-05
 
 
 

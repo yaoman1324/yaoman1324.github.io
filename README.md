@@ -1,6 +1,15 @@
 # Derrick — Minimal Theme for Jekyll.
 
+I think a lot of academic pages, especially in the sciences are a bit too plain for my taste.
+So I edited Derrick Theme to create pages/posts that are pretty but still useful for academics.
+
+I made a bunch of changes to the theme with almost no background in HTML/CSS so let me know if you see any issues.
+All of the photos used are mine! 
+
+----------------
+
 Derrick is a clean minimal and fast theme for a personal blog.
+
 
 * * *
 

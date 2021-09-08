@@ -19,7 +19,7 @@
 }
 
 .page-image {
-  margin-bottom: 45px;
+  margin-bottom: 5px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,6 +30,15 @@
     padding-top: 65%;
   }
 }
+
+.page-image-caption {
+  text-align: left;
+  margin-bottom: 25px;
+  font-size: 12px;
+  line-height: 12px;
+  color: $gray-dark
+}
+
 
 .page__content {
   margin-bottom: 45px;
