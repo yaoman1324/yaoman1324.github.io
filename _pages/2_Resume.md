@@ -4,10 +4,10 @@ title: Resume
 permalink: /Resume/
 ---
 
-<!-- ![]({{site.baseurl}}/assets/img/aboutme.jpeg) -->
 
-For full details: [Resume](https://drive.google.com/file/d/1pOIMi0x5vhZ5V8CbCRoZ6iwe4cd37__U/view?usp=sharing), [CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing).
+For full details: [Resume](https://drive.google.com/file/d/1pOIMi0x5vhZ5V8CbCRoZ6iwe4cd37__U/view?usp=sharing), [CV](https://drive.google.com/file/d/1Sa3VebWWGolhA2q3mPoJ-6fwXHmzPDhv/view?usp=sharing).  
 
+*Updated Sept. 2021*
 
 **EXPERIENCE**
 * Research Data Analyst II, Oct, 2020—Jun, 2021.

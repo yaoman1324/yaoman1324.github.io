@@ -15,8 +15,8 @@ Recently, I've really gotten into playing softball and gardening.  I try to bala
 Currently, I see *statistics* as my way of contributing (very small pieces) toward solutions to important societal problems through my career. I also believe that volunteering is super important because it's hard to get paid to fix systemic issues.  
 
 * [Why Statistics?](https://sho-kawano.github.io/2021/09/08/why-stats/).
-* [Why I meditate.](https://sho-kawano.github.io/)
-* [My evolving views on "doing good"](https://sho-kawano.github.io/2021/09/08/why-stats/)
+* [Why I meditate.](https://sho-kawano.github.io/2021/09/27/why-meditate/)
+<!--- * [My evolving views on "doing good"](https://sho-kawano.github.io/) -->
 
 #### My Life Path
 
@@ -37,7 +37,9 @@ I took stats, decided to major in it but I was mostly interested in clean energy
 
 **Now:** Trying to become a bona-fide statistician.  Pursuing my PhD at UC Santa Cruz.
 
------
+***
+
+*Updated: Sept. 2021*
 
 [^1]: He did his postdoc with Murray Gell-Man, a Nobel Laureate in Physics!  My grandpa is the Japanese Physicist Yasuo Hara.  He's always been a big insipiration for me.
 [^2]: I owe my citizenship to my grandparents and [the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
