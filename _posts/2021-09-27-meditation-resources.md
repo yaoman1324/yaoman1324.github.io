@@ -3,7 +3,7 @@ layout: post
 title:  Meditation Resources
 date:   2021-09-27
 image: /assets/img/bagan.jpeg
-caption: In the ruins of Bagan, Myanmar. Taken by Cait (@scaitlin on insta)[https://instagram.com/scaitlan?utm_medium=copy_link].    
+caption: In the ruins of Bagan, Myanmar. Taken by Cait (see insta below).    
 tags:   [career, beliefs, blog]
 ---
 
@@ -53,3 +53,6 @@ He's one of my favorite authors.  This book is not about Meditation, but it is o
 *How to Change Your Mind by Michael Pollan*
 
 This book is a masterpiece on the promises of psychedelic research for treating mental illnesses.  How is this related to Meditation?  In the book, a section talks about the uncanny similarity of the brain states of expert meditators (10,000+ hrs) and those on a high-dose psychedelic (under therapeutic settings). Check out [this podcast episode for more](https://www.tenpercent.com/podcast-episode/michael-pollan-380).
+
+***
+Phot taken by Cait (\@scaitlin on insta)[https://instagram.com/scaitlan?utm_medium=copy_link]
