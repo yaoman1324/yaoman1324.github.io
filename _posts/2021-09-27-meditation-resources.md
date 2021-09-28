@@ -55,4 +55,4 @@ He's one of my favorite authors.  This book is not about Meditation, but it is o
 This book is a masterpiece on the promises of psychedelic research for treating mental illnesses.  How is this related to Meditation?  In the book, a section talks about the uncanny similarity of the brain states of expert meditators (10,000+ hrs) and those on a high-dose psychedelic (under therapeutic settings). Check out [this podcast episode for more](https://www.tenpercent.com/podcast-episode/michael-pollan-380).
 
 ***
-Phot taken by Cait (\@scaitlin on insta)[https://instagram.com/scaitlan?utm_medium=copy_link]
+Phot taken by Cait [Scaitlin on insta](https://instagram.com/scaitlan?utm_medium=copy_link).
