@@ -20,4 +20,4 @@ So it's safe to say that our minds take a beating just by living every day, even
 I believe Meditation, a practice developed in Asia over centuries, is part of the answer to promoting mental well-being.  Of course, it is now gaining scientific recognition as well.  That said, I don't want to oversell it. Meditation practice is one of the most challenging things I've ever done.
 But it has been the most rewarding thing I've done in my life.  
 
-Want to try Meditation? (Here are some resources)[https://sho-kawano.github.io/2021/09/27/meditation-resources/].
+Want to try Meditation? [Here are some resources](https://sho-kawano.github.io/2021/09/27/meditation-resources/).
