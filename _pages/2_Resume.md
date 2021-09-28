@@ -11,12 +11,8 @@ For full details: [Resume](https://drive.google.com/file/d/1pOIMi0x5vhZ5V8CbCRoZ
 
 **HONORS**
 * Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
-* Phi Beta Kappa and High Distinction in General Scholarship, UC Berkeley College of Letters & Science, May 12, 2017
+* Phi Beta Kappa and High Distinction in General Scholarship, UC Berkeley, 2017.
 
-**PUBLICATION**
-
-LaRiviere J, McCormick G, and Kawano S. “How Better Accounting Can More Cheaply Reduce Carbon Emissions.” University of
-Tennessee, Howard H. Baker Jr. Center for Public Policy (2016).
 
 **EXPERIENCE**
 * Research Data Analyst II, Oct, 2020—Jun, 2021.
@@ -35,6 +31,11 @@ Additional internship experiences at SunPower Corporation and WattTime.org
   - University of California, Santa Cruz
 * B.A. Statistics, High Honors, 2013-2017
   - University of California, Berkeley
+
+**PUBLICATION**
+
+LaRiviere J, McCormick G, and Kawano S. “How Better Accounting Can More Cheaply Reduce Carbon Emissions.” University of
+Tennessee, Howard H. Baker Jr. Center for Public Policy (2016).
 
 **PROGRAMMING SKILLS**
 
