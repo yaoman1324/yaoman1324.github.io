@@ -13,6 +13,9 @@ During my PhD, I want to build expertise in Spatial and Bayesian Statistics with
 
 I'm still a first year (have not passed prelims) so there's I'm mostly taking coursework before I start research.
 
+This is [my proposal](https://drive.google.com/file/d/1xpw5oFMn0PoQASQzgQi3S8hd_bE1fk63/view?usp=sharing) to the NSF Fellowship. I did not win but got Honorable Mention... dammit.
+
+
 Here are some papers I find very interesting:
 * [Review of Nonstationary Spatial Modeling](https://arxiv.org/abs/1610.02447)
 * [A Case Study Competition Among Methods for Analyzing Large Spatial Data](https://link.springer.com/article/10.1007/s13253-018-00348-w)
