@@ -3,8 +3,8 @@ layout: post
 title:  Applying to Stats Grad Programs
 date:   2022-01-07 14:00:00
 image: /assets/img/bangkok_airport.jpeg
-caption: In Bangkok. Taken by Bas Glaap (@basglaap on insta).    
-tags:   [career, beliefs, blog]
+caption: In Bangkok. Taken by Bas Glaap (@basglaap on insta).
+tags:   [grad_school, stats]
 ---
 
 I came into undergrad wanting to study environmental policy.  I discovered stats my sophomore year and had to go back to community college in order to switch!  Even after switching to stats, I had ZERO intentions of going to grad school.  I honestly thought it was overkill.  But instead of being a "data analyst" I wanted to be a proper statistician which meant grad school is almost a must.
