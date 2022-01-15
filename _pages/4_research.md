@@ -12,7 +12,7 @@ caption: View from Diamond Head, looking towards Hawaii Kai.
 **Current Research Interests**
 
 During my PhD, I want to build expertise in Spatial and Bayesian Statistics with primary application to ecology, climatology, or civic data. Within spatial statistics, I'm interested in non-stationary spatial modeling.
-This is [my past proposal](https://drive.google.com/file/d/1xpw5oFMn0PoQASQzgQi3S8hd_bE1fk63/view?usp=sharing) to the NSF Graduate Research Fellowship. I did not win but got Honorable Mention... bleh. 
+This is [my past proposal to the NSF Graduate Research Fellowship](https://drive.google.com/file/d/1xpw5oFMn0PoQASQzgQi3S8hd_bE1fk63/view?usp=sharing). I did not win but got Honorable Mention... which is almost worst than getting rejected. lol
 
 Here are some papers I find very interesting:
 * [Review of Nonstationary Spatial Modeling](https://arxiv.org/abs/1610.02447)
