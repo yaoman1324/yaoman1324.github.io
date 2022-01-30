@@ -29,7 +29,6 @@ Here are some papers I find very interesting:
 * [Meta-kriging: Scalable Bayesian modeling and inference for massive spatial datasets](https://www.tandfonline.com/doi/full/10.1080/00401706.2018.1437474)
 
 
-
 ***
 Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).
 
