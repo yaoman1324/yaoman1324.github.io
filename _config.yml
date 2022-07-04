@@ -10,17 +10,11 @@ author:
   name: Man Yao (姚曼)
   image: '/assets/img/profile-3.jpg'
   job: Welcome to my page!
-#   bio: |+
-#     <br />
-#     I'm an aspiring statistician hoping to use my skills to tackle important societal problems.
-#     <br />
-#     <br />
-#     Currently I'm a PhD Student in Statistics at UC Santa Cruz.
-#     My research interests are in Bayesian and Spatial Statistics, primarily applied to environmental or civic datasets.
-#     <br />
-#     <br />
-#     I previously worked in clean energy with brief stints in air pollution research and the CA State Government (DHCS).
-#     <br />
+  bio: |+
+    <br />
+    I'm an aspiring sociologist hoping to use my skills to tackle important societal problems.
+    <br />
+    
 #   resume: https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
 #   email: shkawano@ucsc.edu
 #   github: https://github.com/sho-kawano
