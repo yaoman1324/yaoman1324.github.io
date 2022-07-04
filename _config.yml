@@ -1,31 +1,31 @@
-title: Sho Kawano
+title: Yao Man
 logo:  # you can add own logo.
 description:
 baseurl:
-url: https://shonomercy.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://yaoman1324.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Sho Kawano
+  name: Yao Man
   image: '/assets/img/aboutme.jpeg'
   job: Welcome to my page!
-  bio: |+
-    <br />
-    I'm an aspiring statistician hoping to use my skills to tackle important societal problems.
-    <br />
-    <br />
-    Currently I'm a PhD Student in Statistics at UC Santa Cruz.
-    My research interests are in Bayesian and Spatial Statistics, primarily applied to environmental or civic datasets.
-    <br />
-    <br />
-    I previously worked in clean energy with brief stints in air pollution research and the CA State Government (DHCS).
-    <br />
-  resume: https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
-  email: shkawano@ucsc.edu
-  github: https://github.com/sho-kawano
-  linkedin: https://www.linkedin.com/in/shokawano
-  last_update:  2022-01-30
+#   bio: |+
+#     <br />
+#     I'm an aspiring statistician hoping to use my skills to tackle important societal problems.
+#     <br />
+#     <br />
+#     Currently I'm a PhD Student in Statistics at UC Santa Cruz.
+#     My research interests are in Bayesian and Spatial Statistics, primarily applied to environmental or civic datasets.
+#     <br />
+#     <br />
+#     I previously worked in clean energy with brief stints in air pollution research and the CA State Government (DHCS).
+#     <br />
+#   resume: https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
+#   email: shkawano@ucsc.edu
+#   github: https://github.com/sho-kawano
+#   linkedin: https://www.linkedin.com/in/shokawano
+#   last_update:  2022-01-30
 
 
 
