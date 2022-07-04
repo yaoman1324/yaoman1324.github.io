@@ -2,8 +2,8 @@
 layout: page
 title: Research
 permalink: /research/
-image: /assets/img/diamond_head.jpeg
-caption: View from Diamond Head, looking towards Hawaii Kai.
+<!-- image: /assets/img/diamond_head.jpeg -->
+<!-- caption: View from Diamond Head, looking towards Hawaii Kai. -->
 ---
 
 
