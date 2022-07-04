@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 image: /assets/img/laura.jpeg
 caption: Me and Laura in front of Mt.Whitney
