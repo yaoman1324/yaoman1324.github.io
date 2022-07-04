@@ -2,7 +2,7 @@
 layout: page
 title: 
 permalink: /about/
-image: /assets/img/profile-3.jpeg
+image: /assets/img/profile-3.jpg
 caption: Me and Laura in front of Mt.Whitney
 ---
 
