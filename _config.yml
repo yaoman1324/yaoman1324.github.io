@@ -1,4 +1,4 @@
-title: Man Yao 姚曼
+title: Man Yao
 logo:  # you can add own logo.
 description:
 baseurl:
@@ -7,7 +7,7 @@ url: https://yaoman1324.github.io # the base hostname & protocol for your site, 
 
 # Author Settings
 author:
-  name: Yao Man
+  name: Man Yao 姚曼
   image: '/assets/img/profile-3.jpg'
   job: Welcome to my page!
 #   bio: |+
