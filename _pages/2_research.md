@@ -18,13 +18,11 @@ I'm interested in ...
 This line of empirical work uses large-scale survey data to document gender and race/ethnicity inequality in multiple settings.
 
 * Gender differences in post-college plans.
-
 * Gender differences in financial knowledge of colleges students.
 
 **Other Projects**
 
 * Siblings
-
 * Migrant children
 
 
