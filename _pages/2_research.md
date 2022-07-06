@@ -5,6 +5,8 @@ permalink: /research/
 
 ---
 
+---
+
 ## Status Beliefs and Social Stratification
 
 My current research aims to deepen our understandings of how cultural beliefs shape social stratification. I'm particulaly interested in how status beliefs based on group differences (e.g., gender and race/ethnicity) are endorsed, diffused, activated, and maintained in interpersonal relationships.
