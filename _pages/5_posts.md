@@ -1,6 +1,6 @@
 ---
 layout: post-page
-title: Names
+title: Posts
 <!-- permalink: -->
 ---
 
