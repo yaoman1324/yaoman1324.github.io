@@ -10,9 +10,7 @@ I love teaching. My teaching philosophy is ...
 
 ### **Student Feedback**
 
-Evaluation score 4.96/5.0, and my evaluations are substantially higher than the comparison group.
-
-#### Selected Comments
+Evaluation score 4.96/5.0, and my evaluations are substantially higher than the comparison group. Selected comments from my students can found below:
 
 **Passionate**
 
