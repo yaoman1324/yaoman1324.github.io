@@ -1,5 +1,5 @@
 ---
 layout: post-page
-title: Posts
+title: Names
 <!-- permalink: /posts/ -->
 ---
