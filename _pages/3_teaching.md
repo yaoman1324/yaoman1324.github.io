@@ -3,12 +3,12 @@ layout: page
 title: Teaching
 permalink: /teaching/
 image: /assets/img/teaching-1.jpg
-caption: My first class of Introduction to Sociology in Fall2021. 
+caption: My first class of Introduction to Sociology in 2021 Fall. 
 ---
 
 I love teaching. My teaching philosophy is ...
 
-### Student Feedback
+### **Student Feedback**
 
 Evaluation score 4.96/5.0, and my evaluations are substantially higher than the comparison group.
 
