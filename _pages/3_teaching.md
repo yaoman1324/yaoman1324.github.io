@@ -6,7 +6,7 @@ image: /assets/img/teaching-1.jpg
 caption: My first class of Introduction to Sociology in 2021 Fall. 
 ---
 
-I love teaching. I view teaching as an efficient way to disseminate and reflect scienfic knowledge. My central aim in teaching sociology is to introduce sociology as a way of thinking to students. I also strive to create an inclusive learning environment in my class. I have taught undergraduate courses on Introduction to Sociology (independent instructor), Social Research Methods (lab instructor), and Technology and Society (teaching assistant).
+I love teaching. I view teaching as an efficient way to disseminate and reflect on scienfic knowledge. My central aim in teaching sociology is to introduce sociology as a way of thinking to students. I also strive to create an inclusive learning environment in my class. I have taught undergraduate courses on Introduction to Sociology (independent instructor), Social Research Methods (lab instructor), and Technology and Society (teaching assistant).
 
 ### **Student Feedback**
 
