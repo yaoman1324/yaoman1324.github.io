@@ -6,11 +6,11 @@ image: /assets/img/teaching-1.jpg
 caption: My first class of Introduction to Sociology in 2021 Fall. 
 ---
 
-I love teaching. My teaching philosophy is ...
+I love teaching. I view teaching as an efficient way to disseminate and reflect scienfic knowledge. My central aim in teaching sociology is to introduce sociology as a way of thinking to students. I also strive to create an inclusive learning environment in my class. I have taught undergraduate courses on Introduction to Sociology (independent instructor), Social Research Methods (lab instructor), and Technology and Society (teaching assistant).
 
 ### **Student Feedback**
 
-Evaluation score 4.96/5.0, and my evaluations are substantially higher than the comparison group. Selected comments from my students can be found below:
+I have fortunately received positive feedback and insightful suggestions from my students (evaluation score 4.96/5.0). Selected comments from them can be found below:
 
 **Passionate**
 
