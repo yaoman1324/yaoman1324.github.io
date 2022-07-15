@@ -15,6 +15,6 @@ My current research aims to deepen our understandings of how gender beliefs are 
 
 * In another ongoing project, I examine how gender intersects with the racialized belief about people with East Asian origins of lacking warmth and assertiveness impact their labor market outcomes.
 
-## **Gender Inequality in Higher Education**
+## **Progress and Impediment of Gender Equality in Education and Work**
 
-In this line of research, I use population-level survey data to document gender inequalities in a diverse range of outcomes in China and the U.S., particulaly in the setting of higher education.
+In this line of research, I use population-level survey data to document progress and continiuing impediment of gender equality in a diverse range of outcomes in China and the U.S..
