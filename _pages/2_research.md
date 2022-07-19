@@ -7,7 +7,7 @@ permalink: /research/
 
 ---
 
-## **Gender Beliefs and the Persistency of Gender Inequality**
+## **Gender Beliefs in Social Interactions**
 
 My current research aims to deepen our understandings of how gender beliefs (i.e., cultural beliefs about the binary sex categorization and gendered attributes) are endorsed, diffused, activated, and maintained in interpersonal relationships.
 
