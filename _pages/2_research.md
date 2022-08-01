@@ -9,7 +9,7 @@ permalink: /research/
 
 ## **Cultural Mechanisms of Gender Inequality**
 
-My current research aims to deepen our understandings of how cultural elements about gender (e.g., symbols, schemas, logics, beliefs,and values about the binary sex categorization and gendered attributes) are endorsed, diffused, activated, and maintained.
+My current research aims to deepen our understandings of how cultural elements about gender (e.g., symbols, schemas, logics, beliefs, and values about the binary sex categorization and gendered attributes) are endorsed, diffused, activated, and maintained.
 
 * My dissertation examines how people in the U.S. perceive gender meanings of **Chinese names** written in English letters and its consequences in everyday life. I argue that the association between first name and sex category serves as a pervasive cultural schema, which can shape perceptions about seemingly gender-neutral Chinese names and create unequal outcomes in daily life.
 
