@@ -12,8 +12,11 @@ permalink: /research/
 Using Chinese names as a case of unfamiliar gender cues in U.S. society, my dissertation investigates how people categorize sex and assign gender stereotypes to these names, and how perceptions translate into unequal outcomes for people of Chinese origin.
 
 * Chapter 1: Applying the culture and cognition perspecitve to theorize the association between names and gender category as a pervasive cultural schema.
+
 * Chapter 2: Conducting computational text analysis on a representative corpus and an online survey experiment about gender meanings of Chinese names.
+
 * Chapter 3: Conducting interviews with people of Chinese origins about mis-gendering and de-gendring as their name-based microaggression experience.
+
 
 ## **Gender Inequality in Education and Work**
 
