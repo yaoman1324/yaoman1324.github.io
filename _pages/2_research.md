@@ -9,7 +9,7 @@ permalink: /research/
 
 ## **Gender Categoriztion and Stereotypes**
 
-Currently I am exploring how gender categorization and stereotypes are constructed and used in daily interactions, with a particular focus on the intersectionality between gender and race/ethnicity. My dissertation examines how people in the U.S. perceive gender meanings of **Chinese names** written in English letters and its consequences in everyday life.
+My dissertation examines how gender categorization and stereotypes are constructed and used in daily interactions, with a particular focus on the intersectionality between gender and race/ethnicity.
 
 ## **Gender Inequality in Education and Work**
 
