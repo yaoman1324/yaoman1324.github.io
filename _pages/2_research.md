@@ -7,13 +7,15 @@ permalink: /research/
 
 ---
 
-## **Gender Categoriztion and Stereotypes**
+## **Dissertation: Gender Categorization of Chinese Names**
 
-My dissertation examines how gender categorization and stereotypes are constructed and used in daily interactions, with a particular focus on the intersectionality between gender and race/ethnicity.
+Using Chinese names as a case of unfamiliar gender cues in U.S. society, my dissertation investigates how people categorize sex and assign gender stereotypes to these names, and how perceptions translate into unequal outcomes for people of Chinese origin.
+
+* Chapter 1: Applying the culture and cognition perspecitve to theorize the association between names and gender category as a pervasive cultural schema.
+* Chapter 2: Conducting computational text analysis on a representative corpus and an online survey experiment about gender meanings of Chinese names.
+* Chapter 3: Conducting interviews with people of Chinese origins about mis-gendering and de-gendring as their name-based microaggression experience.
 
 ## **Gender Inequality in Education and Work**
-
-In this line of research, I use population-level survey data to document progress and continiuing impediment of gender equality in a diverse range of outcomes in China and the U.S.
 
 * Yao, Man, Tori I. Rehr, and Erica P. Regan. 2022. “Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey.” Journal of Family and Economic Issues. [https://doi.org/10.1007/s10834-022-09860-1](https://doi.org/10.1007/s10834-022-09860-1)
 
