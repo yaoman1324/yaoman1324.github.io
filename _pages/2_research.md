@@ -9,11 +9,7 @@ permalink: /research/
 
 ## **Gender Categoriztion and Stereotypes**
 
-Currently I am exploring how gender categorization and stereotypes are constructed and used in daily interactions, with a particular focus on the intersectionality between gender and race/ethnicity.
-
-* My dissertation examines how people in the U.S. perceive gender meanings of **Chinese names** written in English letters and its consequences in everyday life. I argue that the association between first name and sex category serves as a pervasive cultural schema, which can shape perceptions about seemingly gender-neutral Chinese names and create unequal outcomes in daily life.
-
-* In another ongoing project, I examine how gender intersects with the racialized belief about people with East Asian origins of lacking warmth and assertiveness impact their labor market outcomes.
+Currently I am exploring how gender categorization and stereotypes are constructed and used in daily interactions, with a particular focus on the intersectionality between gender and race/ethnicity. My dissertation examines how people in the U.S. perceive gender meanings of **Chinese names** written in English letters and its consequences in everyday life.
 
 ## **Gender Inequality in Education and Work**
 
