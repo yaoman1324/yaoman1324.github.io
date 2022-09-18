@@ -9,7 +9,7 @@ permalink: /research/
 
 ## **Dissertation: Gender Categorization of Chinese Names**
 
-Using Chinese names as a case of unfamiliar gender cues in U.S. society, my dissertation investigates how people categorize sex and assign gender stereotypes to these names, and how perceptions translate into unequal outcomes for people of Chinese origin.
+My dissertation investigates how people in the U.S. categorize sex and assign gender stereotypes to Chinese names written in English letters, and how perceptions translate into unequal outcomes for people of Chinese origin.
 
 * Chapter 1: Applying the culture and cognition perspecitve to theorize the association between names and gender category as a pervasive cultural schema.
 
