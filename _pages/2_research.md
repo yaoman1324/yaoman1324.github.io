@@ -7,7 +7,7 @@ permalink: /research/
 
 ---
 
-## **Dissertation: Gender Categorization of Chinese Names**
+## **Dissertation: Degendering and Misgendering of Chinese Names**
 
 My dissertation investigates how people in the U.S. categorize sex and assign gender stereotypes to Chinese names written in English letters, and how perceptions translate into unequal outcomes for people of Chinese origin.
 
@@ -15,7 +15,7 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 
 * Chapter 2: Conducting computational text analysis on a representative corpus and an online survey experiment about gender meanings of Chinese names.
 
-* Chapter 3: Conducting interviews with people of Chinese origins about mis-gendering and de-gendring as their name-based microaggression experience.
+* Chapter 3: Conducting interviews with people of Chinese origins about degendring and misgendering as their name-based microaggression experience.
 
 
 ## **Gender Inequality in Education and Work**
