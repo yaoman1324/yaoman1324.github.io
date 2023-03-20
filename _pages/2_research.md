@@ -11,11 +11,11 @@ permalink: /research/
 
 My dissertation investigates how people in the U.S. categorize sex and assign gender stereotypes to Chinese names written in English letters, and how perceptions translate into unequal outcomes for people of Chinese origin.
 
-* Chapter 1: Conducting computational text analysis on a representative online corpus to examine gender perceptions of Chinese names in the broad cultural environment.
+* Study 1: Conducting computational text analysis on a representative online corpus to examine gender perceptions of Chinese names in the broad cultural environment.
 
-* Chapter 2: Conducting an online survey experiment about gender perceptions and racialized stereotypes of Chinese names.
+* Study 2: Conducting an online survey experiment about gender perceptions and racialized stereotypes of Chinese names.
 
-* Chapter 3: Conducting interviews with Chinese international students about degendring and misgendering as their name-based microaggression experience.
+* Study 3: Conducting interviews with Chinese international students about degendring and misgendering as their name-based microaggression experience.
 
 
 **Gender Inequality in Education and Work**
