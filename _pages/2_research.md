@@ -20,23 +20,23 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 
 **Peer-reviewed Journal Articles**
 
-Downey, Douglas, Man Yao and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
+Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
 
-Yao, Man, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey.](https://doi.org/10.1007/s10834-022-09860-1)” Journal of Family and Economic Issues.
+**Yao, Man**, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey.](https://doi.org/10.1007/s10834-022-09860-1)” Journal of Family and Economic Issues.
 
-Yao, Man. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates.](https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
+**Yao, Man**. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates.](https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
 
 **Working Papers**
 
-Yao, Man. “Unfamiliar Foreign Name, Cold Chinese Man: How Cultural Schema Shapes Gender Meanings of Chinese Names.”
+**Yao, Man**. “Unfamiliar Foreign Name, Cold Chinese Man: How Cultural Schema Shapes Gender Meanings of Chinese Names.”
 
-Yao, Man and Siqi Han. “Who Gets the ‘Iron Rice Bowl’? Skill Marketability, Organizational Logics, and State Sector Jobs among College Graduates in Urban China.”
+**Yao, Man** and Siqi Han. “Who Gets the ‘Iron Rice Bowl’? Skill Marketability, Organizational Logics, and State Sector Jobs among College Graduates in Urban China.”
 
-Zheng, Hui, Yao Lu, and Man Yao. “Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch.”
+Zheng, Hui, Yao Lu, and **Man Yao**. “Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch.”
 
-Buchmann, Claudia, Rachel Dwyer, and Man Yao. “The Deepening Gender Divide in Credentials 2008-2020: Trends, Sources and Implications”
+Buchmann, Claudia, Rachel Dwyer, and **Man Yao**. “The Deepening Gender Divide in Credentials 2008-2020: Trends, Sources and Implications”
 
-Yao, Man and Claudia Buchmann. “The Gender Divide in Gaming and Career Aspirations in Computing: A Cross-national Analysis.”
+**Yao, Man** and Claudia Buchmann. “The Gender Divide in Gaming and Career Aspirations in Computing: A Cross-national Analysis.”
 
 
 
