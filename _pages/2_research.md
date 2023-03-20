@@ -7,7 +7,7 @@ permalink: /research/
 
 ---
 
-## **Dissertation: Gender Perceptions of Chinese Names**
+**Dissertation: Gender Perceptions of Chinese Names**
 
 My dissertation investigates how people in the U.S. categorize sex and assign gender stereotypes to Chinese names written in English letters, and how perceptions translate into unequal outcomes for people of Chinese origin.
 
@@ -18,13 +18,13 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 * Chapter 3: Conducting interviews with Chinese international students about degendring and misgendering as their name-based microaggression experience.
 
 
-## **Gender Inequality in Education and Work**
+**Gender Inequality in Education and Work**
 
-* Yao, Man, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey.](https://doi.org/10.1007/s10834-022-09860-1)” Journal of Family and Economic Issues.
+Yao, Man, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey.](https://doi.org/10.1007/s10834-022-09860-1)” Journal of Family and Economic Issues.
 
-* Yao, Man. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates.](https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
+Yao, Man. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates.](https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
 
-## **Stratification and Inequality in Post-reform China**
+**Stratification and Inequality in Post-reform China**
 
-* Downey, Douglas, Man Yao and Joseph Merry. Forthcoming. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
+Downey, Douglas, Man Yao and Joseph Merry. Forthcoming. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
 
