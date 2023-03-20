@@ -7,7 +7,7 @@ permalink: /research/
 
 ---
 
-**Dissertation: Gender Perceptions of Chinese Names**
+***Dissertation: Gender Perceptions of Chinese Names***
 
 My dissertation investigates how people in the U.S. categorize sex and assign gender stereotypes to Chinese names written in English letters, and how perceptions translate into unequal outcomes for people of Chinese origin.
 
@@ -18,7 +18,7 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 * Study 3: Conducting interviews with Chinese international students about degendring and misgendering as their name-based microaggression experience.
 
 
-**Peer-reviewed Journal Articles**
+***Peer-reviewed Journal Articles***
 
 Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
 
@@ -26,7 +26,7 @@ Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association
 
 **Yao, Man**. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates.](https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
 
-**Working Papers**
+***Working Papers***
 
 **Yao, Man**. “Unfamiliar Foreign Name, Cold Chinese Man: How Cultural Schema Shapes Gender Meanings of Chinese Names.”
 
