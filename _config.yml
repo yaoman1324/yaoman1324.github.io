@@ -7,13 +7,13 @@ url: https://yaoman1324.github.io # the base hostname & protocol for your site, 
 
 # Author Settings
 author:
-  name: Man Yao (姚曼)
+  name: Man Yao, PhD Candidate
   description: PhD Candidate in Sociology, The Ohio State University
   image: '/assets/img/profile-3.jpg'
-  job: Welcome to my page!
+  job: 
   bio: |+
     <br />
-    I’m Yao, and I’m a PhD candidate in the <a href="https://sociology.osu.edu/">Department of Sociology</a> at <a href="https://www.osu.edu/">The Ohio State University</a>. My research focuses on social stratification and inequality in contemporary U.S. and Chinese societies, with an emphasis on gender, race and ethnicity, and education. You could find my updated CV <a href="https://yaoman1324.github.io/assets/files/Yao_CV.pdf">here</a>.
+    My name is Man Yao, and you can call me Yao. I’m a PhD candidate in the <a href="https://sociology.osu.edu/">Department of Sociology</a> at <a href="https://www.osu.edu/">The Ohio State University</a>. My research focuses on social stratification and inequality in contemporary U.S. and Chinese societies, with an emphasis on gender, race and ethnicity, and education. You could find my updated CV <a href="https://yaoman1324.github.io/assets/files/Yao_CV.pdf">here</a>.
     <br />
     <br />
     One thread of my work explores how cultural beliefs about group distinctions allow gender and racial inequalities to persist. A second thread of my research examines how social statuses—such as gender, race, socioeconomic status, and family structure—shape access and returns to education. Methodologically, I combine traditional social science methods (e.g., survey, experiment, and interview) with computational techniques and big data to analyze these topics.
@@ -24,9 +24,7 @@ author:
     <br />
     I grew up in a small city called <a href="https://en.wikipedia.org/wiki/Enshi_Tujia_and_Miao_Autonomous_Prefecture">Enshi</a> on the mountainous southwestern corner of Hubei province, China. Then, I lived in Beijing and received a M.A. in Anthropology and B.A. in Sociology, both from <a href="https://www.ruc.edu.cn/en">Renmin University of China</a>. During this period, I conducted ethnographic work in an elementary school for migrant children on the outskirts of Beijing for three years.
     <br />
-    <br />
-    In my free time, I enjoy listening to pop music as well as studying the lyrics and going to concerts. I also love singing and playing the guitar and piano.
-    <br />
+    
   resume: https://yaoman1324.github.io/assets/files/Yao_CV.pdf
   email: yao.630@osu.edu
   # github: https://github.com/sho-kawano
