@@ -26,5 +26,5 @@ Yao, Man. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the
 
 **Stratification and Inequality in Post-reform China**
 
-Downey, Douglas, Man Yao and Joseph Merry. Forthcoming. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
+Downey, Douglas, Man Yao and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
 
