@@ -13,7 +13,7 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 
 * Study 1: Conducting computational text analysis on a representative online corpus to examine gender perceptions of Chinese names in the broad cultural environment.
 
-* Study 2: Conducting an online survey experiment about gender perceptions and racialized stereotypes of Chinese names.
+* Study 2: Conducting an online survey experiment about gender perceptions and racialized stereotypes of Chinese names among U.S. individuals.
 
 * Study 3: Conducting interviews with Chinese international students about degendring and misgendering as their name-based microaggression experience.
 
