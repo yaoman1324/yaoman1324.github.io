@@ -29,7 +29,6 @@ Yao, Man. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the
 **Working Papers**
 
 Yao, Man. “Unfamiliar Foreign Name, Cold Chinese Man: How Cultural Schema Shapes Gender Meanings of Chinese Names.”
-*Finalist ASA Culture Section Richard A. Peterson Graduate Student Paper Award.
 
 Yao, Man and Siqi Han. “Who Gets the ‘Iron Rice Bowl’? Skill Marketability, Organizational Logics, and State Sector Jobs among College Graduates in Urban China.”
 
