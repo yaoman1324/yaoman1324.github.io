@@ -1,4 +1,4 @@
-title: Yao Man
+title: Man Yao
 logo:  # you can add own logo.
 description: PhD Candidate in Sociology, The Ohio State University
 baseurl:
@@ -7,7 +7,7 @@ url: https://yaoman1324.github.io # the base hostname & protocol for your site, 
 
 # Author Settings
 author:
-  name: Yao Man, PhD Candidate
+  name: Man Yao, PhD Candidate
   description: PhD Candidate in Sociology, The Ohio State University
   image: '/assets/img/profile-3.jpg'
   job: 
