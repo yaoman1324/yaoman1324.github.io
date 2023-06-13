@@ -20,6 +20,8 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 
 **Peer-reviewed Journal Articles**
 
+* **Yao, Man** and Siqi Han. 2024. "Who Earns the Iron Rice Bowl? Major Marketability and State Sector Jobs among college-educated workers in urban China". Chinese Journal of Sociology.
+
 * Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
 
 * **Yao, Man**, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey.](https://doi.org/10.1007/s10834-022-09860-1)” Journal of Family and Economic Issues.
@@ -29,8 +31,6 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 **Working Papers**
 
 * **Yao, Man**. “Unfamiliar Foreign Name, Cold Chinese Man: How Cultural Schema Shapes Gender Meanings of Chinese Names.”
-
-* **Yao, Man** and Siqi Han. “Who Gets the ‘Iron Rice Bowl’? Skill Marketability, Organizational Logics, and State Sector Jobs among College Graduates in Urban China.”
 
 * Zheng, Hui, Yao Lu, and **Man Yao**. “Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch.”
 
