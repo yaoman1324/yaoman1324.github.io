@@ -20,13 +20,13 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 
 **Peer-reviewed Journal Articles**
 
-* **Yao, Man** and Siqi Han. 2024. "Who Earns the Iron Rice Bowl? Major Marketability and State Sector Jobs among college-educated workers in urban China". Chinese Journal of Sociology.
+* **Yao, Man** and Siqi Han. forthcoming. "[Who Earns the Iron Rice Bowl? Major Marketability and State Sector Jobs among college-educated workers in urban China] (https://drive.google.com/file/d/1m6eh5WBTdPERtSXahxey0yY76tSqVgJf/view?usp=drive_link)". Chinese Journal of Sociology.
 
-* Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe.](https://journals.sagepub.com/doi/10.1177/0192513X231162977)” Journal of Family Issues.
+* Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe](https://journals.sagepub.com/doi/10.1177/0192513X231162977)”. Journal of Family Issues.
 
-* **Yao, Man**, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey.](https://doi.org/10.1007/s10834-022-09860-1)” Journal of Family and Economic Issues.
+* **Yao, Man**, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey](https://doi.org/10.1007/s10834-022-09860-1)”. Journal of Family and Economic Issues.
 
-* **Yao, Man**. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates.](https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
+* **Yao, Man**. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates].(https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
 
 **Working Papers**
 
