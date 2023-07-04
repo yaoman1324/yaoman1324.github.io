@@ -26,7 +26,7 @@ My dissertation investigates how people in the U.S. categorize sex and assign ge
 
 * **Yao, Man**, Tori I. Rehr, and Erica P. Regan. 2022. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey](https://doi.org/10.1007/s10834-022-09860-1)”. Journal of Family and Economic Issues.
 
-* **Yao, Man**. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates].(https://doi.org/10.1177/07311214221124536)” Sociological Perspectives.
+* **Yao, Man**. 2022. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates](https://doi.org/10.1177/07311214221124536)”. Sociological Perspectives.
 
 **Working Papers**
 
