@@ -7,7 +7,7 @@ permalink: /research/
 
 ---
 
-**Dissertation: Gender Perceptions of Chinese Names**
+**Dissertation: Gender Perceptions of Chinese Names in the United States**
 
 My dissertation investigates whether and how U.S. individuals classify the gender of Chinese names written in English letters, and how perceptions translate into unequal outcomes for people of Chinese origin.
 
