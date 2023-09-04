@@ -1,9 +1,7 @@
+---
 layout: page
 title: Research
 permalink: /research/
-
----
-
 ---
 
 **Dissertation: Navigating the Uncertain: Perceptions and Experiences of Gender-Ambiguous Chinese Names in the United States**
