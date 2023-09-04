@@ -1,4 +1,3 @@
-![image](https://github.com/yaoman1324/yaoman1324.github.io/assets/108698392/f9b934f9-c353-48f5-9c28-b6ea279c14f7)---
 layout: page
 title: Research
 permalink: /research/
