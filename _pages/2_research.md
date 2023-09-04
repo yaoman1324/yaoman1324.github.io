@@ -1,4 +1,4 @@
----
+![image](https://github.com/yaoman1324/yaoman1324.github.io/assets/108698392/f9b934f9-c353-48f5-9c28-b6ea279c14f7)---
 layout: page
 title: Research
 permalink: /research/
@@ -7,15 +7,16 @@ permalink: /research/
 
 ---
 
-**Dissertation: Gender Perceptions of Chinese Names in the United States**
+**Dissertation: Navigating the Uncertain: Perceptions and Experiences of Gender-Ambiguous Chinese Names in the United States**
 
-My dissertation investigates whether and how U.S. individuals classify the gender of Chinese names written in English letters, and how perceptions translate into unequal outcomes for people of Chinese origin.
+My dissertation investigates the persistence of the gender frame in an uncertain context. Using Chinese names written in English letters as an gender-ambiguous cue, offer an innovative case to probe group stereotypes at the intersection of gender and race. This dissertation employs a multi-method approach to reveal the perceptions of the dominant group toward gender-ambiguous Chinese names (Study 1 & 2) and the lived experiences of Chinese individuals carrying these names (Study 3).
 
-* Study 1: Conducting computational text analysis on a representative online corpus to examine gender perceptions of Chinese names in the broad cultural environment.
 
-* Study 2: Conducting an online survey experiment about gender perceptions and racialized stereotypes of Chinese names among U.S. individuals.
+* Study 1: Conducting an online survey experiment to examine how U.S. individuals classify the gender of Chinese names, and how pre-existing cultural beliefs about gender and race are associated with the classification outcome.
 
-* Study 3: Conducting interviews with Chinese international students about degendring and misgendering as their name-based microaggression experience.
+* Study 2: Conducting computational text analysis on a representative online corpus to examine gender categories and attributes of Chinese names in the broad cultural environment.
+
+* Study 3: Conducting in-depth interviews with Chinese international students about their experiencces related to gender-ambiguity of their names in daily life, and how these experiences shape their racial identities and sense of belonging.
 
 
 **Peer-reviewed Journal Articles**
