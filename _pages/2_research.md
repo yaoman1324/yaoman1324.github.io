@@ -30,7 +30,7 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 
 **Working Papers**
 
-* **Yao, Man**. “Unfamiliar Foreign Name, Cold Chinese Man: How Cultural Schema Shapes Gender Meanings of Chinese Names.”
+* **Yao, Man**. “Persistence of the Gender Frame: Unpacking Gender Perceptions of Ambiguous Chinese Names in the United States.”
 
 * Zheng, Hui, Yao Lu, and **Man Yao**. “Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch.”
 
