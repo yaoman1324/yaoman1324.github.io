@@ -6,7 +6,7 @@ permalink: /research/
 
 **Dissertation**: ***Navigating the Uncertain: Perceptions and Experiences of Gender-Ambiguous Chinese Names in the United States***
 
-My dissertation investigates the persistence of the gender frame in an uncertain context. Using Chinese names written in English letters as an gender-ambiguous cue, offer an innovative case to probe group stereotypes at the intersection of gender and race. This dissertation employs a multi-method approach to reveal the perceptions of the dominant group toward gender-ambiguous Chinese names (Study 1 & 2) and the lived experiences of Chinese individuals carrying these names (Study 3).
+My dissertation investigates the persistence of the gender frame in an uncertain context. Using Chinese names written in English letters as an gender-ambiguous cue, I offer an innovative case to probe group stereotypes at the intersection of gender and race. This dissertation employs a multi-method approach to reveal the perceptions of the dominant group toward gender-ambiguous Chinese names (Study 1 & 2) and the lived experiences of Chinese individuals carrying these names (Study 3).
 
 
 * Study 1: Conducting an online survey experiment to examine how U.S. individuals classify the gender of Chinese names, and how pre-existing cultural beliefs about gender and race are associated with the classification outcome.
