@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-**Dissertation**: ***Navigating the Uncertain: Perceptions and Experiences of Gender-Ambiguous Chinese Names in the United States***
+**Dissertation**: ***Navigating the Uncertain: Gender Ambiguity of Chinese Names in the United States***
 
 My dissertation investigates the persistence of the gender frame in an uncertain context. Using Chinese names written in English letters as a gender-ambiguous cue, I offer an innovative case to probe group stereotypes at the intersection of gender and race. This dissertation employs a multi-method approach to reveal the perceptions of the dominant group toward gender-ambiguous Chinese names (Study 1 & 2) and the lived experiences of Chinese individuals carrying these names (Study 3).
 
