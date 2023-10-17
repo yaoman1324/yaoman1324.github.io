@@ -30,7 +30,7 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 
 * **Yao, Man**. “Persistence of the Gender Frame: Unpacking Gender Perceptions of Ambiguous Chinese Names in the United States.”
 
-* **Yao, Man**, Claudia Buchmann, and Zhen Wang. “He literally knows everything”: Users’ Gender Perceptions of ChatGPT on Twitter
+* **Yao, Man**, Claudia Buchmann, and Zhen Wang. “ 'He literally knows everything': Users’ Gender Perceptions of ChatGPT on Twitter"
 
 * Zheng, Hui, Yao Lu, and **Man Yao**. “Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch.”
 
