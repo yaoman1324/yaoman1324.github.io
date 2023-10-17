@@ -28,7 +28,7 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 
 **Working Papers**
 
-* **Yao, Man**. “Persistence of the Gender Frame: Unpacking Gender Perceptions of Ambiguous Chinese Names in the United States.”
+* **Yao, Man**. “Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese Names in the United States.”
 
 * **Yao, Man**, Claudia Buchmann, and Zhen Wang. “ 'He literally knows everything': Users’ Gender Perceptions of ChatGPT on Twitter"
 
