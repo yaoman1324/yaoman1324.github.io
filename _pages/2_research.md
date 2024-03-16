@@ -18,7 +18,7 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 
 **Peer-reviewed Journal Articles**
 
-* **Yao, Man** and Siqi Han. forthcoming. "[Who Earns the Iron Rice Bowl? Major Marketability and State Sector Jobs among college-educated workers in urban China](https://drive.google.com/file/d/1m6eh5WBTdPERtSXahxey0yY76tSqVgJf/view?usp=drive_link)". Chinese Journal of Sociology.
+* **Yao, Man** and Siqi Han. 2024. "[Who Earns the Iron Rice Bowl? Major Marketability and State Sector Jobs among college-educated workers in urban China](https://journals.sagepub.com/doi/abs/10.1177/2057150X241237629)". Chinese Journal of Sociology.
 
 * Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe](https://journals.sagepub.com/doi/10.1177/0192513X231162977)”. Journal of Family Issues.
 
