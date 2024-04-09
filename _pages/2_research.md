@@ -18,6 +18,8 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 
 **Peer-reviewed Journal Articles**
 
+* Zheng, Hui, Yao Lu, and **Man Yao**. 2024. “[Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch](https://www.sciencedirect.com/science/article/abs/pii/S0049089X24000371).” Social Science Research.
+  
 * **Yao, Man** and Siqi Han. 2024. "[Who Earns the Iron Rice Bowl? Major Marketability and State Sector Jobs among college-educated workers in urban China](https://journals.sagepub.com/doi/abs/10.1177/2057150X241237629)". Chinese Journal of Sociology.
 
 * Downey, Douglas, **Man Yao** and Joseph Merry. 2023. “[The Inverse Association Between Number of Siblings and Divorce: New Evidence from China and Europe](https://journals.sagepub.com/doi/10.1177/0192513X231162977)”. Journal of Family Issues.
@@ -31,8 +33,6 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 * **Yao, Man**. “Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese Names in the United States.”
 
 * **Yao, Man**, Claudia Buchmann, and Zhen Wang. “ 'He literally knows everything': Users’ Gender Perceptions of ChatGPT on Twitter"
-
-* Zheng, Hui, Yao Lu, and **Man Yao**. “Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch.”
 
 * Buchmann, Claudia, Rachel Dwyer, and **Man Yao**. “The Deepening Gender Divide in Credentials 2008-2020: Trends, Sources and Implications”
 
