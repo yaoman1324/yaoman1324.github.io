@@ -30,15 +30,3 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 
 * **Yao, Man**. 2023. “[Graduate school, Work, or Unclear? Gender Differences in the Post-college Plans among China’s Recent College Graduates](https://doi.org/10.1177/07311214221124536)”. Sociological Perspectives.
 
-**Working Papers**
-
-* **Yao, Man**. “Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese Names in the United States.”
-
-* **Yao, Man**, Claudia Buchmann, and Zhen Wang. “ 'He literally knows everything': Users’ Gender Perceptions of ChatGPT on Twitter"
-
-* **Yao, Man** and Claudia Buchmann. “The Gender Divide in Gaming and Career Aspirations in Computing: A Cross-national Analysis.”
-
-
-
-
-
