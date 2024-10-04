@@ -7,8 +7,8 @@ permalink: /contact/
 
 ---
 
-###### You can contact me via email at yao.630[at]osu.edu.
-###### You can find me on twitter [here](https://twitter.com/yaoman1324).
+###### You can contact me via email at many[at]denison.edu.
+###### You can find me on Bluesky [here]([https://bsky.app/profile/yaoman1324.bsky.social]).
 
 
 
