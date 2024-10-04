@@ -1,19 +1,19 @@
 title: Man Yao | 姚曼
 logo:  # you can add own logo.
-description: PhD Candidate in Sociology, The Ohio State University
+description: Assistant Professor, Denison University
 baseurl:
 url: https://yaoman1324.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Man Yao, PhD Candidate
-  description: PhD Candidate in Sociology, The Ohio State University
+  name: Man Yao, PhD
+  description: Assistant Professor, Denison University
   image: '/assets/img/profile-3.jpg'
   job: 
   bio: |+
     <br />
-    My name is Man Yao, and I go by Yao. I'm an Assistant Professor of Women's and Gender Studies at Denison University. I received my PhD degree in the <a href="https://sociology.osu.edu/">Department of Sociology</a> at <a href="https://www.osu.edu/">The Ohio State University</a>.
+    My name is Man Yao, and I go by Yao. I'm an Assistant Professor of Women's and Gender Studies at <a href="https://denison.edu/people/man-yao">Denison University</a>. I received my PhD degree in the <a href="https://sociology.osu.edu/">Department of Sociology</a> at <a href="https://www.osu.edu/">The Ohio State University</a>.
     <br />
     <br />
     My research examines how gender inequality persists in contemporary socieites, including the United States and China. I am particularly interested in examining how gender differences are constructed and perpetuate in the digital age, by combining computational techniques with traditional social science methods. <br />    
