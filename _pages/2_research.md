@@ -20,7 +20,7 @@ My dissertation investigates the persistence of the gender frame in an uncertain
 
 * **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society.
 
-* Buchmann, Claudia, Rachel Dwyer, and **Man Yao**. 2024. “The Deepening Gender Divide in Credentials 2000-2020: Continuity, Change, and Implications”. RSF: The Russell Sage Foundation Journal of the Social Sciences.
+* Buchmann, Claudia, Rachel Dwyer, and **Man Yao**. 2024. “[The Deepening Gender Divide in Credentials 2000-2020: Continuity, Change, and Implications](https://doi.org/10.7758/RSF.2025.11.1.08).” RSF: The Russell Sage Foundation Journal of the Social Sciences.
 
 * Zheng, Hui, Yao Lu, and **Man Yao**. 2024. “[Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch](https://www.sciencedirect.com/science/article/abs/pii/S0049089X24000371).” Social Science Research.
   
