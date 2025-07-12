@@ -5,7 +5,11 @@ permalink: /research/
 ---
 ### What is Perceived as Feminine, Masculine, or Neutral?
 
-* **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society. 
+**Publications:**
+
+* **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society.
+
+**Ongoging projects:** 
 
 * **Yao, Man**, Claudia Buchmann, and Zhen Wang. “Framed by Gender: Users’ Interactions with Generative AI.” (data analysis) (drafting)
 
