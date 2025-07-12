@@ -3,19 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
-**Dissertation**: ***Gender Ambiguity of Chinese Names in the United States***
-
-My dissertation investigates the persistence of the gender frame in an uncertain context. Using Chinese names written in English letters as a gender-ambiguous cue, I offer an innovative case to probe group stereotypes at the intersection of gender and race. This dissertation employs a multi-method approach to reveal the perceptions of the dominant group toward gender-ambiguous Chinese names (Study 1 & 2) and the lived experiences of Chinese individuals carrying these names (Study 3).
-
-
-* Study 1: Conducting an online survey experiment to examine how U.S. individuals classify the gender of Chinese names, and how pre-existing cultural beliefs about gender and race are associated with the classification outcome.
-
-* Study 2: Conducting computational text analysis on a representative online corpus to examine gender categories and attributes of Chinese names in the broad cultural environment.
-
-* Study 3: Conducting in-depth interviews with Chinese international students about their experiencces related to gender-ambiguity of their names in daily life, and how these experiences shape their racial identities and sense of belonging.
-
-
 **Peer-reviewed Journal Articles**
 
 * **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society.
