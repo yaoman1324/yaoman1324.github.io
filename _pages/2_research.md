@@ -4,11 +4,12 @@ title: Research
 permalink: /research/
 ---
 ## What is Perceived as Feminine, Masculine, or Neutral?
-|   |   |
-|---|---|
-| ![Cat](https://placekitten.com/100/100) | **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society. |
-| ![Dog](https://placedog.net/100/100) | **Yao, Man**, Claudia Buchmann, and Zhen Wang. “Framed by Gender: Users’ Interactions with Generative AI.” (data analysis) (drafting)|
-| ![Mountain](https://via.placeholder.com/100?text=Mountain) | **Yao, Man**. “Gender Classification and Stereotypes of Chinese Names in Word Embeddings.”|
+
+* **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society. 
+* **Yao, Man**, Claudia Buchmann, and Zhen Wang. “Framed by Gender: Users’ Interactions with Generative AI.” (data analysis) (drafting)
+* **Yao, Man**. “Gender Classification and Stereotypes of Chinese Names in Word Embeddings.” (drafting)
+* Yao, Man. “Gender Ambiguity of Names and the Racial Learning of Chinese International Students.” (drafting)
+
 
 
 ## Women's (Dis)Advantages in Educaation and Work
