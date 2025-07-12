@@ -8,13 +8,13 @@ permalink: /teaching/
 
 #### Denison University
 
-* **Issues in Feminism: Introduction to Women's and Gender Studies**. 2024Fall, 2025Spring. [Syllabus](https://journals.sagepub.com/doi/10.1177/08912432241289956).
+* **Issues in Feminism: Introduction to Women's and Gender Studies**. 2024Fall, 2025Spring. [Syllabus](assets/files/[public]WGST101_QS290-7 SP 2025 Syllabus.pdf).
 
-* **When AI Meets Feminism: Critical Perspectives and Actionable Strategies**. 2025Spring. [Syllabus](https://journals.sagepub.com/doi/10.1177/08912432241289956).
+* **When AI Meets Feminism: Critical Perspectives and Actionable Strategies**. 2025Spring. [Syllabus](assets/files/[public]WGST101_QS290-7 SP 2025 Syllabus.pdf).
 
 * **Gender and Diginal Inequality in Contemporary China**. 2025Fall.
 
 
 #### The Ohio State University
 
-* **Introduction to Sociology**. 2021Fall, 2024Spring. [Syllabus](https://journals.sagepub.com/doi/10.1177/08912432241289956).
+* **Introduction to Sociology**. 2021Fall, 2024Spring.
