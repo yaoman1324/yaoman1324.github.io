@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-## What is Perceived as Feminine, Masculine, or Neutral?
+### What is Perceived as Feminine, Masculine, or Neutral?
 
 * **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society. 
 
@@ -13,7 +13,11 @@ permalink: /research/
 
 * Yao, Man. “Gender Ambiguity of Names and the Racial Learning of Chinese International Students.” (drafting)
 
-## Women's (Dis)Advantages in Educaation and Work
+### Women's (Dis)Advantages in Education and Work
+
+* Song, Haoming and **Man Yao**. “The Disapproval of Homosexuality at the Intersection of Gender and Education.” (writing)
+
+* Wen, Fangqi, **Man Yao**, Siqi Han. “The Rise of Gender-Restricted Job Positions in China’s Civil Service Exams: Trends and Justifications.” (data analysis)
 
 * Buchmann, Claudia, Rachel Dwyer, and **Man Yao**. 2024. “[The Deepening Gender Divide in Credentials 2000-2020: Continuity, Change, and Implications](https://doi.org/10.7758/RSF.2025.11.1.08).” RSF: The Russell Sage Foundation Journal of the Social Sciences.
 
@@ -22,7 +26,7 @@ permalink: /research/
 * **Yao, Man**, Tori I. Rehr, and Erica P. Regan. 2023. “[Gender Differences in Financial Knowledge among College Students: Evidence from a Recent Multi-institutional Survey](https://doi.org/10.1007/s10834-022-09860-1).” Journal of Family and Economic Issues.
 
 
-## Social Stratification General
+### Social Stratification General
 
 * Zheng, Hui, Yao Lu, and **Man Yao**. 2024. “[Emerging Health Disparities among College Graduates: Understanding the Health Consequence of Education-Occupation Mismatch](https://www.sciencedirect.com/science/article/abs/pii/S0049089X24000371).” Social Science Research.
   
