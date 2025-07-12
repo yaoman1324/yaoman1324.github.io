@@ -5,6 +5,7 @@ permalink: /research/
 ---
 # Persistence of the Gender Binary
 
+| Picture | Description |
 |--------|-------------|
 | ![Cat](https://placekitten.com/100/100) | * **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society. |
 | ![Dog](https://placedog.net/100/100) |Yao, Man, Claudia Buchmann, and Zhen Wang. “Framed by Gender: Users’ Interactions with Generative AI.” (data analysis) (drafting)|
