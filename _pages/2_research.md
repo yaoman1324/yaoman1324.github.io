@@ -15,7 +15,7 @@ permalink: /research/
 
 * **Yao, Man**. “Gender Classification and Stereotypes of Chinese Names in Word Embeddings.” (drafting)
 
-* Yao, Man. “Gender Ambiguity of Names and the Racial Learning of Chinese International Students.” (drafting)
+* **Yao, Man**. “Gender Ambiguity of Names and the Racial Learning of Chinese International Students.” (drafting)
 
 ### Women's (Dis)Advantages in Education and Work
 
