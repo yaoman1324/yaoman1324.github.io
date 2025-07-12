@@ -2,8 +2,8 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-image: /assets/img/teaching-1.jpg
-caption: My first class of Introduction to Sociology in 2021 Fall. 
+# image: /assets/img/teaching-1.jpg
+# caption: My first class of Introduction to Sociology in 2021 Fall. 
 ---
 
 #### Denison University
