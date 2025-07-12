@@ -3,13 +3,11 @@ layout: page
 title: Research
 permalink: /research/
 ---
-# Persistence of the Gender Binary
+# What is Perceived as Feminine, Masculine, or Neutral?
 
-|  |  |
-|--------|-------------|
-| ![Cat](https://placekitten.com/100/100) | * **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society. |
+| ![Cat](https://placekitten.com/100/100) | **Yao, Man**. 2024. "[Persistence of the Gender Frame: Gender Perceptions of Ambiguous Chinese and Gender-Neutral American Names in the United States](https://journals.sagepub.com/doi/10.1177/08912432241289956)." Gender & Society. |
 | ![Dog](https://placedog.net/100/100) |Yao, Man, Claudia Buchmann, and Zhen Wang. “Framed by Gender: Users’ Interactions with Generative AI.” (data analysis) (drafting)|
-| ![Mountain](https://via.placeholder.com/100?text=Mountain) | A scenic mountain landscape. |
+| ![Mountain](https://via.placeholder.com/100?text=Mountain) | Yao, Man. “Gender Classification and Stereotypes of Chinese Names in Word Embeddings.”|
 
 
 # Gender Inequality in Education
