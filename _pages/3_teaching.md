@@ -6,7 +6,7 @@ image: /assets/img/teaching-1.jpg
 caption: My first class of Introduction to Sociology in 2021 Fall. 
 ---
 
-### Denison University
+#### Denison University
 
 * **Issues in Feminism**: Introduction to Women's and Gender Studies. 2024Fall, 2025Spring. [Syllabus](https://journals.sagepub.com/doi/10.1177/08912432241289956).
 
@@ -15,6 +15,6 @@ caption: My first class of Introduction to Sociology in 2021 Fall.
 * **Gender and Diginal Inequality in Contemporary China**. 2025Fall.
 
 
-### The Ohio State University
+#### The Ohio State University
 
 * **Introduction to Sociology**. 2021Fall, 2024Spring. [Syllabus](https://journals.sagepub.com/doi/10.1177/08912432241289956).
