@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-### 1. Femininity, masculinity, and gender neutrality
+### 1. Cultural notions of femininity, masculinity, and gender neutrality
 
 *Publications:*
 
