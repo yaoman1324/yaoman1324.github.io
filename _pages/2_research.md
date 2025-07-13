@@ -1,4 +1,4 @@
-b---
+---
 layout: page
 title: Research
 permalink: /research/
