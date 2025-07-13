@@ -17,4 +17,4 @@ permalink: /teaching/
 
 #### The Ohio State University
 
-* **Introduction to Sociology**. 2021Fall, 2024Spring.
+* Introduction to Sociology. 2021Fall, 2024Spring.
