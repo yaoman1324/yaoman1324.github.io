@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-### 1. What is perceived as feminine, masculine, or neutral?
+### 1. Femininity, masculinity, and gender neutrality
 
 *Publications:*
 
