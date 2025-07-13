@@ -1,9 +1,9 @@
----
+b---
 layout: page
 title: Research
 permalink: /research/
 ---
-### What is perceived as feminine, masculine, or neutral?
+### 1. What is perceived as feminine, masculine, or neutral?
 
 *Publications:*
 
@@ -17,7 +17,7 @@ permalink: /research/
 
 * **Yao, Man**. “Gender Ambiguity of Names and the Racial Learning of Chinese International Students.” (drafting)
 
-### Women's (dis)advantages in education and work
+### 2. Women's (dis)advantages in education and work
 
 *Publications:*
 
@@ -34,7 +34,7 @@ permalink: /research/
 * Wen, Fangqi, **Man Yao**, Siqi Han. “The Rise of Gender-Restricted Job Positions in China’s Civil Service Exams: Trends and Justifications.” (data analysis)
 
 
-### Social stratification general
+### 3. Social stratification general
 
 *Publications:*
 
