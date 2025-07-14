@@ -42,7 +42,18 @@ caption: Me and Laura in front of Mt.Whitney
       </div>
     
       <h1 class="author__job">{{ site.author.job }}</h1>
-      <p class="author__bio">{{ site.author.bio }}</p>
+      <div class="author__bio" style="color: #333; text-decoration: none;">
+        <style>
+          .author__bio a {
+            color: #007bff;
+            text-decoration: underline;
+          }
+          .author__bio a:hover {
+            color: #0056b3;
+          }
+        </style>
+        {{ site.author.bio }}
+      </div>
 
 
           <!--
