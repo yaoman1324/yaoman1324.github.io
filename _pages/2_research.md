@@ -34,7 +34,7 @@ permalink: /research/
 * Wen, Fangqi, **Man Yao**, Siqi Han. “The Rise of Gender-Restricted Job Positions in China’s Civil Service Exams: Trends and Justifications.” (data analysis)
 
 
-### 3. Social stratification general
+### 3. Social stratification and inequality
 
 *Publications:*
 
