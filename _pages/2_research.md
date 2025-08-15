@@ -11,7 +11,7 @@ permalink: /research/
 
 *Ongoging projects:* 
 
-* **Yao, Man**, Claudia Buchmann, and Zhen Wang. “Framed by Gender: Users’ Interactions with ChatGPT.” (drafting)
+* **Yao, Man**, Claudia Buchmann, and Zhen Wang. “Framed by Gender: A Computational Approach to User Perceptions of ChatGPT.” (drafting)
 
 * **Yao, Man**. “Gender Classification and Stereotypes of Chinese Names in Word Embeddings.” (drafting)
 
