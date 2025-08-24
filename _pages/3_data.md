@@ -36,7 +36,7 @@ I used a variety of population-level survey data as well as online text corpora 
 
 ### *China Data*
 
-1. [Chinese General Social Survey (CGSS)](http://cgss.ruc.edu.cn/English/Home.htm), National Survey Research Center at Renmin University of China. [(Yao and Han 2024)](https://journals.sagepub.com/doi/abs/10.1177/2057150X241237629)[(Downey, Yao, and Merry 2024)](https://journals.sagepub.com/doi/abs/10.1177/0192513X231162977)
+1. [Chinese General Social Survey (CGSS)](http://cgss.ruc.edu.cn/English/Home.htm), National Survey Research Center at Renmin University of China. [(Yao and Han 2024, ](https://journals.sagepub.com/doi/abs/10.1177/2057150X241237629)[Downey, Yao, and Merry 2024)](https://journals.sagepub.com/doi/abs/10.1177/0192513X231162977)
 
 2. [China Education Panel Survey](http://ceps.ruc.edu.cn/English/Overview/Overview.htm), National Survey Research Center at Renmin University of China.
 
