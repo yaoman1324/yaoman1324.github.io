@@ -22,7 +22,7 @@ I used a variety of population-level survey data as well as online text corpora 
 
 3. [Panel Study of Income Dynamics (PSID)](https://psidonline.isr.umich.edu/), Institute for Social Research at University of Michigan. [(Zheng, Lu, and Yao 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0049089X24000371)
 
-4. [Genereal Social Survey(GSS)](https://gss.norc.org/), NORC at the University of Chicago.
+4. [Genereal Social Survey (GSS)](https://gss.norc.org/), NORC at the University of Chicago.
 
 5. [Study on Collegiate Financial Wellness (SCFW)](https://cssl.osu.edu/research-projects/study-on-collegiate-financial-wellness), Center for the Study of Student Life at The Ohio State University. [(Yao, Rehr, and Regan 2024)](https://link.springer.com/article/10.1007/s10834-022-09860-1)
 
