@@ -4,7 +4,7 @@ title: Data
 permalink: /data/
 ---
 
-I used a variety of population-level survey data as well as online text corpora in my research and teaching. Click on the links of your choice to access these data tools and resources. My respective published papers using these datasets are also listed for reference.
+I used a variety of population-level survey data as well as online text corpora in my research and teaching. Click on the links to access these data tools and resources. My respective published papers using these datasets are also listed for reference.
 
 ### *Social Media Text Data*
 
