@@ -6,6 +6,8 @@ permalink: /teaching/
 # caption: My first class of Introduction to Sociology in 2021 Fall. 
 ---
 
+In my teaching, I am passionate about equipping students from diverse disciplinary backgrounds with quantitative skills and computational literacy, and about integrating feminist social science insights with rigorous quantitative methods.
+
 #### Denison University
 
 * Issues in Feminism: Introduction to Women's and Gender Studies. 2024Fall, 2025Spring. [Syllabus](https://yaoman1324.github.io/assets/files/[public]WGST101_QS290-7_SP_2025_Syllabus.pdf).
