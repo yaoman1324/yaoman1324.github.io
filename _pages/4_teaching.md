@@ -10,7 +10,7 @@ In my teaching, I am passionate about equipping students from diverse disciplina
 
 ### Denison University
 
-* **Issues in Feminism: Introduction to Women's and Gender Studies** [[Syllabus]](https://yaoman1324.github.io/assets/files/[public]WGST101_QS290-7_SP_2025_Syllabus.pdf).
+* **Issues in Feminism** [[Syllabus]](https://yaoman1324.github.io/assets/files/[public]WGST101_QS290-7_SP_2025_Syllabus.pdf).
 > An introduction to the field of Women’s and Gender Studies, this interdisciplinary course considers the socio-political meanings and practices of gender in our lives. It examines whether gender is biologically or socially constructed and how notions of femininity and masculinity are (re)produced. Students will analyze the workings of power and the social production of inequality in institutions such as the family, the workplace, and the state, taking into account the intersections among gender, race, class, ethnicity, nationality, and sexuality. Topics will include sexual and gender violence, equal rights, reproductive technologies, body image, and transnational feminist issues. A central aim of the course is to develop critical reading and thinking about the plurality of women’s experiences and about the ways in which women have resisted inequalities and engaged in local/global politics for social transformation and change.
 
 * **When AI Meets Feminism** [[Syllabus]](https://yaoman1324.github.io/assets/files/[public]WGST286_DA286-01_SP_2025_Syllabus.pdf).
